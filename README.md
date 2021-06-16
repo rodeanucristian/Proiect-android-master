@@ -1,4 +1,4 @@
-Aplicatie implementeaza punctele obligatorie ale proiectului .. pentru nota 5 :)
+Aplicatia implementeaza punctele obligatorie ale proiectului .. pentru nota 5 :)
 
 Utilizat o metoda de navigatie: Bottom Navigation
 Implementat o operatie cu camera
